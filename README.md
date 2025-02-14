@@ -107,13 +107,13 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 ## 🙌 Contributors
-- **Your Name** (Your GitHub Profile)
+- **Rajyasri V** 
 - Contributions welcome! Feel free to submit a pull request. 🎉
 
 ---
 
 ## 📞 Contact
 For questions or suggestions, feel free to reach out:
-- 📧 Email: your-email@example.com
-- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: rajya4107@gmail.com
+- 🔗 GitHub: https://github.com/Rajya-V
 
