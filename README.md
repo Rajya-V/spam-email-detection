@@ -93,7 +93,7 @@ To deploy the project on **Google Colab**, simply:
 ## 🔗 GitHub Integration
 ### **Push the Project to GitHub**
 ```python
-!git remote set-url origin https://Rajya-V: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@github.com/Rajya-V/spam-email-detection.git
+!git remote set-url origin https://your-username:your-token@github.com/your-username/your-repository.git
 !git add .
 !git commit -m "Initial commit - Spam Classifier Project"
 !git push origin main
